@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVVM_counter</string>
+    <string name="minus">-</string>
+    <string name="theme">Theme</string>
+    <string name="plus">+</string>
+    <string name="zero">0</string>
+</resources>
